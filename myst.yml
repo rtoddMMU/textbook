@@ -65,9 +65,10 @@ project:
         - file: chapters/06/4/Example_Sex_Ratios.ipynb
     - file: chapters/07/Visualization.ipynb
       children:
-        - file: chapters/07/1/Visualizing_Categorical_Distributions.ipynb
-        - file: chapters/07/2/Visualizing_Numerical_Distributions.ipynb
-        - file: chapters/07/3/Overlaid_Graphs.ipynb
+        - file: chapters/07/1/matplotlib_basic_grammar.ipynb
+        - file: chapters/07/2/Visualizing_Categorical_Distributions.ipynb
+        - file: chapters/07/3/Visualizing_Numerical_Distributions.ipynb
+        - file: chapters/07/4/Overlaid_Graphs.ipynb
     - file: chapters/08/Functions_and_Tables.ipynb
       children:
         - file: chapters/08/1/Applying_a_Function_to_a_Column.ipynb
