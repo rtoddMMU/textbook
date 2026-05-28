@@ -53,9 +53,11 @@ project:
     - file: chapters/05/Sequences.ipynb
       children:
         - file: chapters/05/1/Arrays.ipynb
+        - file: chapters/05/1/Slicing_Arrays.ipynb
         - file: chapters/05/2/Ranges.ipynb
         - file: chapters/05/3/More_on_Arrays.ipynb
-    - file: chapters/06/Tables.ipynb
+        - file: chapters/05/4/Dictionaries.ipynb
+    - file: chapters/06/DataFrames.ipynb
       children:
         - file: chapters/06/1/Sorting_Rows.ipynb
         - file: chapters/06/2/Selecting_Rows.ipynb
