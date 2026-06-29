@@ -69,7 +69,7 @@ project:
         - file: chapters/07/2/Visualizing_Categorical_Distributions.ipynb
         - file: chapters/07/3/Visualizing_Numerical_Distributions.ipynb
         - file: chapters/07/4/Overlaid_Graphs.ipynb
-    - file: chapters/08/Functions_and_Tables.ipynb
+    - file: chapters/08/Functions_and_DataFrames.ipynb
       children:
         - file: chapters/08/1/Applying_a_Function_to_a_Column.ipynb
         - file: chapters/08/2/Classifying_by_One_Variable.ipynb
