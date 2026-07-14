@@ -1,6 +1,7 @@
  # To Do
-Finshed through chapter 7.
-Start working on Chapter 8 section 1
+THrought Chapter 9.
+Start Chapter 10
+
 
 To-Do
 
