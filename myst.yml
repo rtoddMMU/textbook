@@ -142,7 +142,7 @@ project:
         - file: chapters/18/2/Making_Decisions.ipynb
 
 site:
-  url: https://rtoddMMU.github.io/textbook
+  url: https://rtoddmmu.github.io/textbook/
   options:
     logo: Data8Logo_withPandas.png
     favicon: favicon.ico
