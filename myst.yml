@@ -142,9 +142,9 @@ project:
 
 site:
   options:
-    logo: data8logo.png
+    logo: Data8Logo_withPandas.png
     favicon: favicon.ico
-    logo_text: "Computational and Inferential Thinking"
+    logo_text: "Computational and Inferential Thinking with Pandas"
     analytics_google: UA-148221575-1
     folders: true
     hide_authors: true
