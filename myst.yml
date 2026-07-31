@@ -1,6 +1,6 @@
 version: 1 
 project:
-  title: Computational and Inferential Thinking
+  title: Computational and Inferential Thinking with Pandas
   numbering:
     title: true
     headings: true
@@ -8,11 +8,12 @@ project:
     - name: Ani Adhikari
     - name: John DeNero
     - name: David Wagner
+    - name: Edited by R.Todd (and CoPilot)
   # Don't show the license icons on every page
   # license: CC-BY-NC-ND-4.0
   exclude:
     - README.md
-  github: data-8/textbook
+  github: rtoddMMU/textbook
   toc:
     - file: chapters/intro.md
     - file: chapters/01/what-is-data-science.md
@@ -141,6 +142,7 @@ project:
         - file: chapters/18/2/Making_Decisions.ipynb
 
 site:
+  url: https://rtoddMMU.github.io/textbook
   options:
     logo: Data8Logo_withPandas.png
     favicon: favicon.ico
